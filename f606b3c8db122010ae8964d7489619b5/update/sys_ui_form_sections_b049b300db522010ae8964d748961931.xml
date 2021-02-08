@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b049b300db522010ae8964d748961931" sys_domain="global" table="x_78758_innovate_innovate" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 17:51:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c149b300db522010ae8964d748961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_78758_innovate_innovate" name="x_78758_innovate_innovate" sys_domain="global" view="Default view">b049b300db522010ae8964d748961931</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_78758_innovate_innovate" sys_domain="global" view="Default view">a57737c8db122010ae8964d74896196e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 17:51:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 17:51:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd49b300db522010ae8964d748961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_78758_innovate_innovate" name="x_78758_innovate_innovate" sys_domain="global" view="Default view">b049b300db522010ae8964d748961931</sys_ui_form>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_78758_innovate_innovate" sys_domain="global" view="Default view">7049b300db522010ae8964d748961930</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 17:51:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_78758_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 17:51:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b049b300db522010ae8964d748961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_78758_innovate_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_78758_innovate">f606b3c8db122010ae8964d7489619b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">f606b3c8db122010ae8964d7489619b5</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b049b300db522010ae8964d748961931</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 17:51:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
